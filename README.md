@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi, I’m  Anshul Sonkar , a B.Tech student passionate about web development and technology.<br><br>I have hands-on experience with HTML, CSS, and JavaScript, and I enjoy building responsive and user-friendly web interfaces. I have worked on small projects like landing pages and basic web apps, which helped me understand front-end development concepts.<br><br>I’m highly interested in solving real-world problems using technology. I’m eager to collaborate with others, learn new technologies, and push my limits.<br><br>Currently, I’m also exploring backend development to become a full-stack developer in the future.<br><br>Looking forward to building something impactful!
+Hi, I’m  Anshul Sonkar , a B.Tech(CSE) student passionate about web development and technology.<br><br>I have hands-on experience with HTML, CSS, and JavaScript, and I enjoy building responsive and user-friendly web interfaces. I have worked on small projects like landing pages and basic web apps, which helped me understand front-end development concepts.<br><br>I’m highly interested in solving real-world problems using technology. I’m eager to collaborate with others, learn new technologies, and push my limits.<br><br>Currently, I’m also exploring backend development to become a full-stack developer in the future.<br><br>Looking forward to building something impactful!
 
 
 ## 🌐 Socials:
