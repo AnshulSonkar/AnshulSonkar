@@ -1,3 +1,4 @@
+Hi, I’m Anshul Sonkar👋
 A student who is curious about how technology is built and what happens behind the scenes.
 
 Whenever I see something someone has built, I start asking: How does this work? How did they code it? How did they make it this polished? Could I build something similar?
